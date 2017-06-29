@@ -1,0 +1,22 @@
+{
+  "name": "humix-sample-module",
+  "version": "0.0.1",
+  "description": "A sample humix sense module",
+  "main": "humix-testcase.js",
+  "dependencies": {
+    "humix-sense": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node humix-testcase.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/project-humix/humix-sample-module.git"
+  },
+  "keywords": [
+    "humix"
+  ],
+  "license": "Apache-2.0"
+}
